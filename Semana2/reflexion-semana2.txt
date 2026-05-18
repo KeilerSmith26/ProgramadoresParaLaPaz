@@ -1,0 +1,10 @@
+Para un desarrollador, es muy importante saber dominar la terminal.
+Esto es fundamental porque optimiza muchisimo el flujo de trabajo y la velocidad al 
+interactuar con el sistema operativo. 
+A diferencia de la interfaz gráfica, la línea de comandos permite ejecutar tareas complejas, 
+como crear, mover o reestructurar múltiples directorios , mediante un solo comando preciso. 
+Además hay ciertas herramienta de desarrollo modernas que facilitan el trabajo, como los 
+sistemas de control de versiones como Git, los gestores de paquetes y los entornos de automatización, 
+se ejecutan de manera nativa y más eficiente desde la consola de comandos. 
+Saber navegar por carpetas mediante código es un requisito indispensable para administrar servidores remotos en la nube, 
+donde las interfaces visuales simplemente no existen. 

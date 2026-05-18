@@ -1,0 +1,13 @@
+Yo use los siguientes comandos
+
+pwd  //para ver la ruta en la que me encuentro 
+
+ls  //para enlistar el contenido dentro de un directorio 
+
+mkdir semana2   //para crear un directorio/carpeta
+
+cd semana2  //para ingresar al directorio/carpeta
+
+touch preguntas-semana2.txt //para crear un archivo de texto
+touch comandos-semana2.txt
+touch reflexion-semana2.txt
