@@ -1,0 +1,12 @@
+Pregunta 4: 
+
+Respuesta: La ciudadanía digital, la participación social y herramientas técnicas como Git, se 
+podria decir que estan conectadas por la cultura de la colaboración en internet, ser un ciudadano responsable
+en internet verificando fuentes y compartiendo información verídica, lo que equivale 
+a la trazabilidad y honestidad que ofrece el historial de cambios en el software. 
+Por su parte, la participación ciudadana busca la construcción colectiva de soluciones 
+para la comunidad, algo que Git hace posible a nivel técnico al permitir que miles de personas 
+colaboren de forma ordenada en proyectos de código abierto. Finalmente, 
+el respeto a las normas éticas en la red se refleja en los de trabajo con Git, donde las revisiones
+de código aseguran que las contribuciones individuales beneficien al grupo y no dañen el sistema. 
+Así, la tecnología y la ética social se unen para crear un entorno digital más democrático, organizado y confiable para todos.

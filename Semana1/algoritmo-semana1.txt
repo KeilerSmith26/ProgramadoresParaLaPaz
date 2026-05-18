@@ -1,0 +1,14 @@
+Pregunta 5:
+
+Respuesta: Acontinuacion escribire 6 pasos para realizar un 
+algoritmo que me ayudara a compartir información veridica
+
+1: Buscar la informacion
+2: Verificar si la noticia es vieja
+3: Leer muy bien la informacion 
+4: Comprender lo que lo que se informa          
+5: contrastar con otras fuentes
+6: Si la noticia es falsa o vieja
+7: no comparto la noticia
+8: si la noticia es nueva y es veridica
+9: comparto la noticia
