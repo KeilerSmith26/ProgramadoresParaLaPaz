@@ -1,0 +1,12 @@
+Reflexión de la semana
+
+Llevar un registro de los cambios con Git es esencial porque les da a los proyectos de software la 
+capacidad de contar con una "máquina del tiempo" que se ocupa de apuntar de una forma meticulosa 
+y explícita quién modificó qué y con qué motivos, así como cuándo se hicieron esas modificaciones 
+para cada línea del código fuente. Guardar cada modificación de forma ordenada funciona como un escudo protector ante cualquier problema técnico, 
+ya que permite hacer regresar el sistema a una versión que se considera perfecta 
+en pocas decenas de segundos, acortando, de esa forma, las pérdidas y los tiempos de caída del servicio. 
+Por otra parte, cuando se lleva a cabo un desarrollo informático profesional, Git permite acabar con el despliegue inesperado de caos del trabajo colectivo 
+permitiendo que distintos programadores puedan añadir funciones al mismo tiempo sobre el mismo conjunto de códigos fuente sin que se salten el uno al otro. 
+Sin ella, buscar fallos o fusionar avances se convertiría en una tarea manual difícil de manejar, eso sin tener en cuenta que las cuestiones de seguridad y avance del software resultarían amenazados. 
+Un repositorio controlado no se limita a ser un mero respaldo, sino más bien el propio soporte de la transparencia, del orden y de la eficacia que hace que un código frágil acabe transformándose en un producto tecnológico escalable, fiable y decidido para competir en esta dura época que ha comenzado ahora.

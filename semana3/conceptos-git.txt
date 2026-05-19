@@ -1,0 +1,12 @@
+Pregunta 7 — Explicar conceptos básicos de Git
+
+Repositorio : Un repositorio es el citio en el cual Registramos y organizamos nuestros proyectos 
+por ejemplo; cada que hacemos un cambio de nuestro proyecto, lo subimos al repositorio el cual se encuentra en la nube.
+
+Commit : Sirve para guardar todos el registro que de los cambios que hacemos en el proyecto,
+por ejemplo cuando hacemos, git commit -m "realice cambios en mi proyecto", lo que estamos haciendo es guardar el registro de 
+los cambios que hicimos recientemente en el proyecto.
+
+Push : Aqui es cuando subismos el proyecto a nuestro repositorio, luego de haber guardado el registro de los cambios realizados anteriormente, 
+antes de hacer el git push, debemos tener en cuenta que hay que guardas los cambios, porque si no nos mostrara errores.
+
