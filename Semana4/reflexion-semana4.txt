@@ -1,0 +1,8 @@
+Las tecnologías abiertas como Node.js permiten a las comunidades construir herramientas
+adaptadas a sus necesidades sin tener que someterse a grandes compañías o costosas licencias, 
+y por tanto salvaguardando su soberanía tecnológica. Al ser software libre, 
+cualquier acción ciudadana puede auditar, modificar y adaptar el código para poner en marcha 
+soluciones a problemas muy concretos y locales, como la gestión comunitaria o la transparencia de la información. 
+Por otro lado, contamos con una enorme comunidad global, lo cual ha hecho de Node.js un ecosistema abierto y colaborativo 
+que comparte aprendizaje y produce soluciones rápidas. Esto facilita la democratización de la innovación que empodera a 
+los ciudadanos y permite a los ciudadanos ser creadores de soluciones auto sostenibles, seguras y adaptadas a su propia realidad y dejar de ser meros consumidores digitales.
