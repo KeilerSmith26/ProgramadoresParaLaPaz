@@ -1,0 +1,9 @@
+Las APIs funcionan como puentes digitales que conectan la aplicación de la 
+comunidad con bases de datos y otros servicios, permitiendo que la información fluya sin caos. 
+Cuando un vecino envía un reporte sobre una bombilla rota o una alerta de seguridad, 
+la API se encarga de recibir ese mensaje, clasificarlo automáticamente por categorías y 
+guardarlo en el lugar correcto. Además, pueden conectar la app comunitaria con sistemas externos, 
+como el correo electrónico, WhatsApp o alertas del ayuntamiento, enviando notificaciones instantáneas a 
+los administradores o a todo el vecindario según la urgencia. De esta manera, en lugar de tener un grupo de chat 
+desordenado y lleno de mensajes perdidos, las APIs estructuran los datos para que cada incidencia se registre, 
+se asigne a un responsable y se pueda seguir su resolución de principio a fin de forma transparente.

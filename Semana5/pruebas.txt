@@ -1,0 +1,7 @@
+Pregunta 7 — Probar las rutas
+
+Cuando escribo la Ruta http://localhost:3000 en el navegador, me dice que el servidor esta activo
+
+Cuando escribo la ruta http://localhost:3000/saludo en el navegador, la respuesta que me da es, Hola Comunidad
+
+Cuando escribo la ruta http://localhost:3000/mensaje/juan en el navegador, me da un mensaje el cual es "Hola Juan".

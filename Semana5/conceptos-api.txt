@@ -1,0 +1,9 @@
+Qué hace esta ruta.
+Básicamente lo que hace esta ruta es cargar una información en una página, 
+por ejemplo nos puede abrir una ventana la cual no servirá para agregar un mensaje, 
+luego agregar el mensaje lo enviamos y se enviara a la aplicación
+
+Para qué podría servir en una aplicación comunitaria.
+Esta aplicación comunitaria nos podría servir para dar información a una comunidad 
+Por ejemplo si va a haber algún corte de agua de energía o también si ahí algún daño en la vía que conecta la 
+comunidad con el grupo, otro pueblo, una aplicación comunitaria es muy importante para una comunidad
