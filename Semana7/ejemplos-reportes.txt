@@ -1,0 +1,15 @@
+Ejemplo 1:
+{ 
+    "tipo" : "Bache en la via",
+    "descripcion": "Hay un bache cerca de la carrera 30, el cual esta causando muchos accidentes muy graves, 
+     se dice que ah causado mas de 15 accidentes y las entidades pertinentes no han intervenido"
+    
+}
+
+Ejemplo 2:
+{ 
+    "tipo" : "Basura",
+    "descripcion": "Llevan 5 dias sin recoger la basura que esta al lado del colegio, las bolsas ya estan 
+     en el suelo, no cabe una mas en el contenedor, los estudiantes y maestros se han quejado de la situacion"
+    
+}

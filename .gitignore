@@ -1,0 +1,14 @@
+# Ignorar la carpeta de dependencias (¡es vital hacer esto!)
+node_modules/
+
+# Ignorar archivos de variables de entorno (donde guardas contraseñas o claves API)
+#.env
+#.env.local
+
+# Ignorar archivos del sistema operativo
+#.DS_Store
+#Thumbs.db
+
+# Ignorar carpetas de compilación o producción
+#dist/
+#build/
