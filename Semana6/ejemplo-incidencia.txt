@@ -1,0 +1,10 @@
+
+{
+    "tipo" : "seguridad", 
+
+    "descripcion" : "Ultimamente se han estado precentando varios incidentes por motivos de seguridad en 
+     nuestra comunidad, esta confirmado que son tres personas, entre ellos un niño, que estan atracando a las 
+     personas de la comunidad con armar blancas, dicen que si la persona se reciste, 
+     termina ciendo agredido por estos delincuentes."
+     
+}

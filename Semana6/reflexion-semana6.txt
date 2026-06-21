@@ -1,0 +1,10 @@
+La recepción estructurada de datos por parte de las plataformas ciudadanas es un pilar clave para garantizar
+que la voz de la comunidad se traduzca en acciones concretas y rápidas. Al estandarizar la información a 
+través de formularios con categorías precisas, se evita la ambigüedad de los textos libres y se facilita 
+la comprensión del problema desde el primer segundo. Esto permite que los algoritmos de software 
+filtren y deriven automáticamente cada reporte hacia los técnicos especialistas adecuados, reduciendo al 
+mínimo la burocracia digital. Asimismo, esta organización sistemática es indispensable para almacenar 
+registros limpios que luego puedan transformarse en mapas de calor o gráficos de rendimiento. Gracias a 
+este orden, los administradores pueden anticipar crisis recurrentes, distribuir los recursos públicos 
+donde realmente se necesitan y evaluar el impacto de sus soluciones. En resumen, estructurar el reporte 
+ciudadano es lo que permite escalar la atención masiva sin perder calidad ni velocidad.
