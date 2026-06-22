@@ -1,0 +1,20 @@
+Identificar información del sistema
+
+Qué información muestra cada comando.
+
+El comando *uname -a* basicamente esta mostrando a detalle una vision de mi sistema operativo,
+esto es lo que muestra: $ uname -a
+MINGW64_NT-10.0-26200 smith 3.6.6-1cdd4371.x86_64 2026-01-15 22:20 UTC x86_64 Msys
+
+El comando whoami, Muestra el nombre del usuario en el cual me encuentro trabajando *KSQM*
+
+
+Por qué es útil conocer información del sistema cuando se administra un servidor.
+
+En pocas palabras, conocer la información del sistema nos sirve para:
+
+Saber qué podemos instalar: asi evito meter programas incompatibles que tumben el servidor.
+
+Evitar desastres de seguridad: Sabes exactamente qué usuario eres (whoami) para no borrar archivos clave por error.
+
+Arreglar fallas rápido: tengo los datos exactos del sistema para encontrar la solución correcta cuando algo falle.

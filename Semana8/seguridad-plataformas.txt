@@ -1,0 +1,8 @@
+Buenas prácticas para plataformas comunitarias
+
+
+1. Verificacion de identidad
+2. Contraseñas robustas obligatorias
+3. Cifrado de los datos sensibles
+4. Actualizaciones
+5. Hacer respaldo de la informacion automaticamente

@@ -1,0 +1,4 @@
+1. Tener una sola contraseña para cada cosa y es recomendable usar doble autenticacion y un gestor de contraseñas.
+2. Actualizar todo y desconfiar de links que consideremos maliciosos
+3. Hacer copias de seguridad
+4. No compartir informacion sensible

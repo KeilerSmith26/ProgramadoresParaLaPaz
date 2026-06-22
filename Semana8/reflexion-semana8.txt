@@ -1,0 +1,9 @@
+La seguridad digital es el pilar fundamental que sostiene las plataformas comunitarias, ya que la 
+confianza de los participantes es un activo sumamente frágil. En procesos participativos, los ciudadanos 
+suelen compartir opiniones, reportes e incluso datos personales o de ubicación; si esta información se 
+filtra o es expuesta debido a un sistema vulnerable, la privacidad de los usuarios queda en riesgo y la 
+credibilidad del proyecto se destruye de inmediato. Asimismo, la seguridad operativa previene ataques 
+maliciosos, como la inyección de información falsa o el sabotaje del servidor, garantizando que los canales 
+de comunicación permanezcan siempre estables y disponibles cuando la comunidad más lo necesita. Cuidar los 
+accesos y proteger el entorno digital no es un simple requerimiento técnico, sino un acto de responsabilidad 
+social que blinda la libre expresión, evita la manipulación del debate y asegura la continuidad del tejido organizativo.
