@@ -1,0 +1,12 @@
+Registrar ejecucion del servidor
+
+1. Cuando ejecuto (node server.js)  lo que pasa es que el servidor se inicia a ejecutar en el puerto indicado, en este caso el puerto (3000).
+
+2. El mesaje que me aparece en la terminal cuando ejecuto el singuiente comando(node server.js) es Servidor ejecutándose en puerto 3000
+
+3. Cuando visito la ruta (estado), el servidor me da una respuesta en formato Json la cual es:
+{
+  estado: Servidor funcionando,
+  servicio: API comunitaria
+}
+

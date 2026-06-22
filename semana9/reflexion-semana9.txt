@@ -1,0 +1,9 @@
+La estabilidad y la seguridad de un servidor son la base para que cualquier plataforma comunitaria realmente funcione.
+Si la página se vive cayendo o va lentísima cuando la gente intenta conectarse, la comunidad simplemente 
+se cansa, deja de participar y se pierde toda la iniciativa. Además, en estos espacios solemos compartir 
+datos personales, reportes o ideas, y si el servidor no es seguro, nos exponemos a hackeos o a que se filtre 
+información privada de los vecinos, rompiendo por completo la confianza que costó meses construir. 
+Mantener el sistema estable con buenas prácticas, como respaldos automáticos y un control estricto de 
+quién entra, no es solo un capricho técnico, sino una responsabilidad con el grupo. Al final del día, 
+tener un servidor confiable garantiza que el canal de comunicación siempre esté abierto y disponible 
+justo cuando la comunidad más lo necesita para organizarse. 

@@ -1,0 +1,16 @@
+Identificar componentes de un entorno servidor
+
+Sistema operativo
+Es quien manda el computador (como Windows o Linux) que controla todo el hardware y la memoria. Se encarga de darle permiso y espacio a los programas para que puedan funcionar sin chocar entre sí.
+
+Node.js
+Es el motor o traductor que permite a la computadora entender y ejecutar código de JavaScript fuera de un navegador web. Es el entorno que hace posible que tu servidor pueda arrancar y procesar solicitudes.
+
+Aplicación server.js
+Es el archivo de texto donde se escriben las reglas, rutas y lógica de tu proyecto. Es el cerebro de tu aplicación que decide qué responderle a un usuario cuando entra a tu página.
+
+Puerto
+Es como una puerta numerada específica (por ejemplo, el puerto 3000) en mi pc es para recibir tráfico de internet. Permite que las conexiones de los usuarios lleguen directo a mi aplicación y no a otro programa.
+
+Logs
+Es el historial de notas donde el servidor anota todo lo que va pasando en tiempo real. Sirve para revisar qué usuarios entraron o para descubrir exactamente qué falló cuando hay un error.
